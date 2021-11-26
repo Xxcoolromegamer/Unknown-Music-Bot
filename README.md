@@ -1,4 +1,4 @@
-# Disc 11 by Zhycorp
+# Disc 11 by Unknown Leaf
 > A dedicated open-source Discord music bot for Zhycorp based on [Jukebox](https://github.com/Hazmi35/jukebox), easy to use, and with no coding required.
 
 <a href="https://zhycorp.net/discord"><img src="https://img.shields.io/discord/332877090003091456?color=7289DA&logo=discord&logoColor=white" alt="Discord Server" /></a>
